@@ -5,4 +5,5 @@
 ## Basic
 |CH|프로젝트명|날짜|링크|
 |---|---|---|---|
-|01.|명언 생성기|22.01.13|[🗣](Docs/Basic/CH01.md)|
+|01.|[명언 생성기](https://github.com/nkrang/iOS_Study_Again/tree/main/Basic)|22.01.13|[🗣](Docs/Basic/CH01.md)|
+|02.|[LED 전광판](https://github.com/nkrang/iOS_Study_Again/tree/main/Basic)|22.01.25|[🚥](Docs/Basic/CH02.md)|
