@@ -7,6 +7,7 @@
 
 import UIKit
 
+//D1
 protocol LEDBoardSettingDelegate: AnyObject {
     func changedSetting(text: String?, textColor: UIColor, backgroundColor: UIColor)
 }
@@ -81,6 +82,7 @@ class SettingViewController: UIViewController {
     }
     
     @IBAction func tapSaveButton(_ sender: Any) {
+        //D2
         self.delegate?.changedSetting(
             text: self.textField.text,
             textColor: self.textColor,
